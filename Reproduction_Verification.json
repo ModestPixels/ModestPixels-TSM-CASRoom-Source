@@ -1,0 +1,20 @@
+{
+  "passed": true,
+  "patch_sha256": "2521a23d7e4f410f3a06352c0e549d30dff1383561a19b988fd65e93dd965356",
+  "exact_public_patch_reproduced": true,
+  "variants": [
+    {
+      "variant": "Original_TS3",
+      "sha256": "296141bc5aebb3ebacf0048631f2c0a08feb869246aebccf13dfcc77b54b8ade",
+      "original_programs_preserved": 15689,
+      "original_blocks_preserved": 604
+    },
+    {
+      "variant": "With_Medieval_Plumbob",
+      "sha256": "a5e9630d56242eb4d7aae7c7120e5a618ad68f9c3aec045e3f9c22aa26efcf5d",
+      "original_programs_preserved": 15691,
+      "original_blocks_preserved": 605
+    }
+  ],
+  "scope": "Private workspace fixture only; no installation writes; no full game bundle included in source kit"
+}

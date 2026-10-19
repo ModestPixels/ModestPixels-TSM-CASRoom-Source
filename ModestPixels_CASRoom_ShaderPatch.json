@@ -1,0 +1,107 @@
+{
+  "format": "ModestPixels.MultiSourceSparsePatch.1",
+  "version": "0.1.4",
+  "mod": "ModestPixels_SimsMedieval_CASRoom",
+  "variants": [
+    {
+      "format": "ModestPixels.SparseBytePatch.1",
+      "variant": "Original_TS3",
+      "source_sha256": "d16ce5d5a5aac7978c91fd9f04fbdc39e979e58743cfde0e53d3accf7d81f981",
+      "source_bytes": 92614595,
+      "target_sha256": "296141bc5aebb3ebacf0048631f2c0a08feb869246aebccf13dfcc77b54b8ade",
+      "target_bytes": 92615006,
+      "operations": [
+        {
+          "offset": 12,
+          "remove_bytes": 4,
+          "data_base64": "YvElAg=="
+        },
+        {
+          "offset": 20,
+          "remove_bytes": 4,
+          "data_base64": "Sj0AAA=="
+        },
+        {
+          "offset": 20789563,
+          "remove_bytes": 0,
+          "data_base64": "AQ8HwAAAAFBTSES4AAAAAAL//1EAAAUBAA+gKVwPPgAAAAAAAAAAAAAAAB8AAAIAAACAAAAjsB8AAAIAAACAAQAjsB8AAAIAAACQAAgPoB8AAAIAAACQAQgPoEIAAAMBAC+AAQDksAEI5KBCAAADAAAvgAAA5LAACOSgAQAAAgAAKIABAACgBAAABAEAJ4ABAOSAAADkoAAA/4AFAAADAAAngAAA5IABAOSAAQAAAgAACIABAFWgAQAAAgAIL4AAAOSA//8AAA=="
+        },
+        {
+          "offset": 36237324,
+          "remove_bytes": 4,
+          "data_base64": "XQIAAA=="
+        },
+        {
+          "offset": 46757196,
+          "remove_bytes": 0,
+          "data_base64": "U0JMS5E6f0IPBwAAnAAAAAEAAAAAAAAAAAAAAAEAAABURUNIXjP6FAEAAABQQVNTAAAAAAAAAACYJAAASj0AAFBBUk0H9yMAAwAAAB6o2LQBJgAEAAABgAYu7a4BHgEDAAABgOkgBUIBxAEBADAAgFBBUk0H9yMAAQAAAJvLfU8BBAABADAAAAEAAADCAAAAAAAAAAMAAAADAAAAhf3AbAkAAABmkcrnAAAAAA=="
+        },
+        {
+          "offset": 92578580,
+          "remove_bytes": 4,
+          "data_base64": "z4wAAA=="
+        },
+        {
+          "offset": 92578588,
+          "remove_bytes": 4,
+          "data_base64": "AQUAAA=="
+        },
+        {
+          "offset": 92614591,
+          "remove_bytes": 0,
+          "data_base64": "kTp/QgAAAAAcAAAATW9kZXN0UGl4ZWxzLlRTTUNBU1Jvb21EZXB0aA=="
+        }
+      ]
+    },
+    {
+      "format": "ModestPixels.SparseBytePatch.1",
+      "variant": "With_Medieval_Plumbob",
+      "source_sha256": "8c528b10af67717bedeed9de983d69bbb508a9671cc90496934863956a6767be",
+      "source_bytes": 92617063,
+      "target_sha256": "a5e9630d56242eb4d7aae7c7120e5a618ad68f9c3aec045e3f9c22aa26efcf5d",
+      "target_bytes": 92617474,
+      "operations": [
+        {
+          "offset": 12,
+          "remove_bytes": 4,
+          "data_base64": "pPklAg=="
+        },
+        {
+          "offset": 20,
+          "remove_bytes": 4,
+          "data_base64": "TD0AAA=="
+        },
+        {
+          "offset": 20791677,
+          "remove_bytes": 0,
+          "data_base64": "AQ8HwAAAAFBTSES4AAAAAAL//1EAAAUBAA+gKVwPPgAAAAAAAAAAAAAAAB8AAAIAAACAAAAjsB8AAAIAAACAAQAjsB8AAAIAAACQAAgPoB8AAAIAAACQAQgPoEIAAAMBAC+AAQDksAEI5KBCAAADAAAvgAAA5LAACOSgAQAAAgAAKIABAACgBAAABAEAJ4ABAOSAAADkoAAA/4AFAAADAAAngAAA5IABAOSAAQAAAgAACIABAFWgAQAAAgAIL4AAAOSA//8AAA=="
+        },
+        {
+          "offset": 36239438,
+          "remove_bytes": 4,
+          "data_base64": "XgIAAA=="
+        },
+        {
+          "offset": 46759614,
+          "remove_bytes": 0,
+          "data_base64": "U0JMS5E6f0IPBwAAnAAAAAEAAAAAAAAAAAAAAAEAAABURUNIXjP6FAEAAABQQVNTAAAAAAAAAACYJAAATD0AAFBBUk0H9yMAAwAAAB6o2LQBJgAEAAABgAYu7a4BHgEDAAABgOkgBUIBxAEBADAAgFBBUk0H9yMAAQAAAJvLfU8BBAABADAAAAEAAADCAAAAAAAAAAMAAAADAAAAhf3AbAkAAABmkcrnAAAAAA=="
+        },
+        {
+          "offset": 92580998,
+          "remove_bytes": 4,
+          "data_base64": "AY0AAA=="
+        },
+        {
+          "offset": 92581006,
+          "remove_bytes": 4,
+          "data_base64": "AgUAAA=="
+        },
+        {
+          "offset": 92617059,
+          "remove_bytes": 0,
+          "data_base64": "kTp/QgAAAAAcAAAATW9kZXN0UGl4ZWxzLlRTTUNBU1Jvb21EZXB0aA=="
+        }
+      ]
+    }
+  ]
+}

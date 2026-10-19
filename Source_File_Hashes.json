@@ -1,0 +1,74 @@
+[
+  {
+    "file": "Sources/TSMCASRoomDefault/tools/room_shaders.mjs",
+    "sha256": "d3b278a22d614ac52133a72087b8fb1ecc7e738dfd1db350125f093467bb78ca",
+    "bytes": 6811,
+    "source_sha256": "d3b278a22d614ac52133a72087b8fb1ecc7e738dfd1db350125f093467bb78ca"
+  },
+  {
+    "file": "Sources/TSMCASRoomDefault/project.json",
+    "sha256": "b91a0e325caea9a434f8c5c463f394e49e6f29280997e630ddc1e0c4be6b8e5e",
+    "bytes": 294,
+    "source_sha256": "b91a0e325caea9a434f8c5c463f394e49e6f29280997e630ddc1e0c4be6b8e5e"
+  },
+  {
+    "file": "Sources/TSMCASRoomDefault/room_style.json",
+    "sha256": "40421c8181dff57fdba618318f4086ac4d071015ca7f1f8755204a36f9da034e",
+    "bytes": 434,
+    "source_sha256": "40421c8181dff57fdba618318f4086ac4d071015ca7f1f8755204a36f9da034e"
+  },
+  {
+    "file": "Sources/TSMPlumbobDefault/tools/adapt_shaders.mjs",
+    "sha256": "db93a8d1129dfe8ebfa799a84a189d139d15298f5c01a9955599c4bf13628d0f",
+    "bytes": 8053,
+    "source_sha256": "db93a8d1129dfe8ebfa799a84a189d139d15298f5c01a9955599c4bf13628d0f"
+  },
+  {
+    "file": "Sources/CottageLife/tools/collection_outfits_lib.mjs",
+    "sha256": "df3f01a4a28c155dfd587600729374b8c05e519a549c496d3c80b41d342605a0",
+    "bytes": 6414,
+    "source_sha256": "df3f01a4a28c155dfd587600729374b8c05e519a549c496d3c80b41d342605a0"
+  },
+  {
+    "file": "Sources/TSMPlumbobDefault/releases/1.0.0/ModestPixels_SimsMedieval_Plumbob_DefaultReplacement/ModestPixels_MedievalPlumbob_ShaderPatch.json",
+    "sha256": "e659dff763807eba07cfde5d51e338b17c5f76ad5657d1ac60b07b3e4c3b2ebf",
+    "bytes": 4416,
+    "source_sha256": "e659dff763807eba07cfde5d51e338b17c5f76ad5657d1ac60b07b3e4c3b2ebf"
+  },
+  {
+    "file": "Shipped_Setup/ModestPixels_CASRoom_ShaderSetup.ps1",
+    "sha256": "91644ed471af8ea36514dd7befbb4a0982947b09b13e7d21102ad3a79cee5787",
+    "bytes": 5815,
+    "source_sha256": "91644ed471af8ea36514dd7befbb4a0982947b09b13e7d21102ad3a79cee5787"
+  },
+  {
+    "file": "Shipped_Setup/ModestPixels_CASRoom_ShaderPatch.json",
+    "sha256": "2521a23d7e4f410f3a06352c0e549d30dff1383561a19b988fd65e93dd965356",
+    "bytes": 3790,
+    "source_sha256": "2521a23d7e4f410f3a06352c0e549d30dff1383561a19b988fd65e93dd965356"
+  },
+  {
+    "file": "Shipped_Setup/Install_Room_Shader.cmd",
+    "sha256": "909aa745836eb8246db104eb056c49ea12b61903d341c8b53eaaf1b4c6e966b0",
+    "bytes": 178,
+    "source_sha256": "909aa745836eb8246db104eb056c49ea12b61903d341c8b53eaaf1b4c6e966b0"
+  },
+  {
+    "file": "Shipped_Setup/Restore_Room_Shader.cmd",
+    "sha256": "6855550cb4c102ac7168632dc08cb239d9fc29e44b8db11617a8b0292ce5a2f5",
+    "bytes": 178,
+    "source_sha256": "6855550cb4c102ac7168632dc08cb239d9fc29e44b8db11617a8b0292ce5a2f5"
+  },
+  {
+    "file": "Shader_Assembly/Original_CASRoom_PixelShader.asm.txt",
+    "sha256": "f2965b83358d9ee5649625e7f68073376e5f2e7f89312348f5d84338b97bdd0b",
+    "bytes": 349,
+    "source_sha256": "f2965b83358d9ee5649625e7f68073376e5f2e7f89312348f5d84338b97bdd0b"
+  },
+  {
+    "file": "Shader_Assembly/Modified_CASRoom_PixelShader.asm.txt",
+    "sha256": "e0585c2f0bb5c1db88dcf8d8e8de2f48b44143652c4a97631e0547ce0179d451",
+    "bytes": 356,
+    "source_sha256": "e0585c2f0bb5c1db88dcf8d8e8de2f48b44143652c4a97631e0547ce0179d451"
+  }
+]

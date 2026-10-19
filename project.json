@@ -1,0 +1,5 @@
+{
+  "version": "0.1.4",
+  "package_name": "ModestPixels_SimsMedieval_CASRoom_DefaultReplacement_v0.1.4.package",
+  "change": "Room-only private shader reduces ambient fill for deeper baked shadows; modest lightmap gain preserves highlights. Soft warm rays and neutral Sim lighting retained."
+}

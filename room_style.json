@@ -1,0 +1,9 @@
+{
+  "name": "Warm light and shadow depth",
+  "shader_name": "ModestPixels.TSMCASRoomDepth",
+  "native_shader": "94B9A835",
+  "native_ambient_floor": 0.25,
+  "ambient_floor": 0.14,
+  "lightmap_gain": 1.16,
+  "scope": "Only 13 room/pedestal materials. Native Sim lighting, original shader programs, ray material, textures, camera and UI are preserved. This strengthens existing baked lighting; it does not introduce dynamic shadows."
+}
